@@ -1,4 +1,4 @@
-# A Broad and Deep Analysis of Elastic Weight Consolidation in Large Convolutional Neural Networks
+# Continual Learning Case Study: Elastic Weight Consolidation (EWC) in VGGish
 
 This repository contains the code used to perform the experiments outlined in the final project of my MSc Computing Science.
 
@@ -8,7 +8,7 @@ In this work, we proposed a methodology to evaluate continual learning approache
 3) unimodal sequential task learning
 4) multi-modal sequential task learning
 
-We illustrated this methodology using [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset) and [Elastic Weight Consolidation (EWC)](https://www.pnas.org/content/114/13/3521) as a case study.
+We illustrated this methodology using [Elastic Weight Consolidation (EWC)](https://www.pnas.org/content/114/13/3521) and [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset) as a case study.
 
 ## Running experiments
 
